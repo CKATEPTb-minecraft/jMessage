@@ -1,0 +1,7 @@
+name: '${projectName}'
+version: '${projectVersion}'
+main: '${projectMainClass}'
+api-version: 1.13
+authors: [ CKATEPTb ]
+description: "Manage the Jyraf component serializer yourself using a configuration file."
+depend: [ "Jyraf-Core" ]
